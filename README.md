@@ -42,5 +42,5 @@
 
 <br/><br/>
 
-- 반응형 웹사이트 페이지 크기
+- 반응형 웹사이트의 페이지 크기에 따른 컨텐츠 배치
 <img src="https://github.com/yoon052/react-netflix-clone/assets/105267838/41aeeafe-3ad6-45b2-ac65-364a617d087f">
